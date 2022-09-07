@@ -1,0 +1,21 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body 
+{
+    background: radial-gradient(ellipse at center, #000000 0%, #11032b 44%, #1b0447 100%);
+    min-height: 100vh;
+}
+.video
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    float: left;
+
+}
